@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Desktop/練習JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "じゃんけんアプリ"
+	}
+}
